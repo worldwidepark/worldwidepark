@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @worldwidepark
-- 👀 I’m interested in learn new things
-- 🌱 I’m currently learning javascript
+- 👀 I want to draw the fun world with coding.  
+- 🌱 I can use Docker, Ruby on rails
+- 🌱 I will learn Javascript, React, Typescript, Next.js, AWS and more.
 
 <!---
 worldwidepark/worldwidepark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
