@@ -6,7 +6,7 @@
 
 # 2022 年の実績
 
-801 時間の学習
+### 801 時間の学習
 
 - [Ruby on Rails の練習](https://github.com/worldwidepark/gassiper_rails) ➖ [Qiita記事](https://qiita.com/parkon_hhs/items/98304bc5112f0e0f6faf)
 - [React.js の練習](https://github.com/worldwidepark/reactTodolist)
