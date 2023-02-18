@@ -8,7 +8,7 @@
 
 801 時間の学習
 
-- [Ruby on Rails の練習](https://github.com/worldwidepark/gassiper_rails)　➖ [Qiita記事](https://qiita.com/parkon_hhs/items/98304bc5112f0e0f6faf)
+- [Ruby on Rails の練習](https://github.com/worldwidepark/gassiper_rails) ➖ [Qiita記事](https://qiita.com/parkon_hhs/items/98304bc5112f0e0f6faf)
 - [React.js の練習](https://github.com/worldwidepark/reactTodolist)
 - [Docker の練習](https://github.com/worldwidepark/docker) ➖ [Qiita記事](https://qiita.com/parkon_hhs/items/7a37b4f2a3083be07988)
 
